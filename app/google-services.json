@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "120410984063",
+    "firebase_url": "https://lilium-5b716-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lilium-5b716",
+    "storage_bucket": "lilium-5b716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120410984063:android:5f25181af186c28870f94a",
+        "android_client_info": {
+          "package_name": "com.example.lilium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLd2R86jaZXT_hmcPoRaE8b6ARor1Wvcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable-v24/ic_add_shopping.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable-v24/ic_egg.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable-v24/ic_fruits.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable-v24/ic_veggies.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable-v24/item_count.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/background_time.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/background_time_selected_red.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/background_time_unselectable.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/bg_search_selector.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/cart_button_bg.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/half_circle.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_appointment.xml" value="0.2575" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_baseline_keyboard_arrow_up_24.xml" value="0.2555" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_calendar.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_hair_dryer.xml" value="0.2575" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_hair_dye.xml" value="0.2575" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_man.xml" value="0.2445" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_man_choosen.xml" value="0.2575" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_minus.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_rectangle_3.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_scissors.xml" value="0.2575" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_straight_razor.xml" value="0.2575" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_woman.xml" value="0.2575" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/ic_woman_choosen.xml" value="0.2575" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/drawable/shape_circle_white.xml" value="0.2525" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/font/rubik_bold.xml" value="0.38385416666666666" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_finish.xml" value="0.3546875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_form.xml" value="0.2509057971014493" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_gallery.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_login.xml" value="0.2509057971014493" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_map.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_nav.xml" value="0.22" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_productdetails.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_profil.xml" value="0.33" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_register.xml" value="0.2509057971014493" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_select.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/activity_shop.xml" value="0.3546875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/bottom_sheet.xml" value="0.3546875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/bottom_sheet_dialog_layout.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/category_row_item.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/fragment_change_hours.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/fragment_choose_service.xml" value="0.1" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/fragment_hairdresser.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/fragment_home.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.3546875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/fragment_my_appointments.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/fragment_pick_date.xml" value="0.3546875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/fragment_submit.xml" value="0.1" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/item_horizontal.xml" value="0.3546875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/item_photo.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/layout_appointment_item.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/layout_appointment_item_delete.xml" value="0.3536458333333333" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/layout_services_item.xml" value="0.3546875" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/map_motion_layout.xml" value="0.17249240121580547" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/products_row_item.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Dom/AndroidStudioProjects/Lilium/app/src/main/res/layout/salon.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

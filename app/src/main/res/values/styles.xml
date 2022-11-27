@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/design_default_color_error</item>
+        <item name="colorPrimaryDark">@color/design_default_color_on_primary</item>
+        <item name="colorAccent">@color/design_default_color_surface</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppThemee" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+
+        <!-- Navigation Drawer -->
+
+    </style>
+
+    <style name="TransparentView">
+        <item name="background">@android:color/transparent</item>
+    </style>
+
+    <style name="Widget.Custom.NavigationView" parent="Widget.Design.NavigationView">
+
+    </style>
+
+    <style parent="@style/Theme.MaterialComponents.Light" name="SplashScreen">
+
+    <item name="windowActionBar">false</item>
+
+    <item name="windowNoTitle">true</item>
+
+    <item name="android:windowFullscreen">true</item>
+
+    <item name="android:windowContentOverlay">@null</item>
+
+    <item name="android:windowLayoutInDisplayCutoutMode"
+        tools:targetApi="o_mr1">shortEdges </item>
+
+    <item name="android:windowTranslucentStatus">true</item>
+
+    <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
